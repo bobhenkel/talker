@@ -8,22 +8,24 @@ information to include in your README.
 
 ## Table of Contents
 
-1. [Description](#description)
-1. [Setup - The basics of getting started with talker](#setup)
-    * [What talker affects](#what-talker-affects)
-    * [Setup requirements](#setup-requirements)
-    * [Beginning with talker](#beginning-with-talker)
-1. [Usage - Configuration options and additional functionality](#usage)
-1. [Limitations - OS compatibility, etc.](#limitations)
-1. [Development - Guide for contributing to the module](#development)
+- [talker](#talker)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Setup](#setup)
+    - [What talker affects **OPTIONAL**](#what-talker-affects-optional)
+    - [Setup Requirements **OPTIONAL**](#setup-requirements-optional)
+    - [Beginning with talker](#beginning-with-talker)
+  - [Usage](#usage)
+  - [Reference](#reference)
+  - [Limitations](#limitations)
+  - [Development](#development)
+  - [Release Notes/Contributors/Etc. **Optional**](#release-notescontributorsetc-optional)
 
 ## Description
 
-Briefly tell users why they might want to use your module. Explain what your
-module does and what kind of problems users can solve with it.
+This module is being used to learn how to create a Puppet Bolt module that can be re-used across 1 or more Puppet Bolt projects.
 
-This should be a fairly short description helps the user decide if your module
-is what they want.
+All this module does is contain simple tasks and plans to focus on learning how Puppet Bolt works. Use this module if you want to learn the basics of Bolt, Bolt project, and Bolt modules(which so far just seem like puppet modules).
 
 ## Setup
 
