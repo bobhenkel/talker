@@ -1,0 +1,5 @@
+{
+    "description": "echo hi to stdout",
+    "input_method": "stdin",
+    "parameters": {}
+}
